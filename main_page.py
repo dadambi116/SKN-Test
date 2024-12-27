@@ -24,3 +24,5 @@ if st.button(f"{my_site} 접속하기"):
 
 
 
+st.title('실습 페이지')
+print("수정 사항!!")
